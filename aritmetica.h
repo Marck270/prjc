@@ -5,3 +5,7 @@ float sumar(float a, float b){
 float resta(float a, float b){
     return a-b;
 }
+
+float multiplicar(float a, float b){
+    return a*b;
+}
